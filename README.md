@@ -20,9 +20,8 @@
   3. Detected high-performing restaurant categories.
      
 ## Business Impact The dashboard helps stakeholders: - 
-1.Monitor revenue trends - 
-2.Optimize restaurant partnerships 
-3.rack performance across cities.
-4.Avaoiding Single Cuisine Domainance.
+1.Optimize restaurant partnerships 
+2.Track performance across cities.
+3.Avaoiding Single Cuisine Domainance.
 
      
